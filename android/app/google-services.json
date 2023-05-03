@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "320217978026",
+    "firebase_url": "https://pruebalsm-998c5-default-rtdb.firebaseio.com",
+    "project_id": "pruebalsm-998c5",
+    "storage_bucket": "pruebalsm-998c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320217978026:android:7478e45da213cbe6a3ecd3",
+        "android_client_info": {
+          "package_name": "com.example.agenditabb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320217978026-q5sndcdnt77j58dp8d6p8hll6mbqoprg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZEt7Em4YzKBk68x2ErOuYu3g4AL9F5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320217978026-q5sndcdnt77j58dp8d6p8hll6mbqoprg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

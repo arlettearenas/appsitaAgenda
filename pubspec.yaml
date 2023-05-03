@@ -1,0 +1,38 @@
+name: agenditabb
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0-276.0.dev <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.1
+  firebase_core: ^1.10.0
+  firebase_database: ^7.1.1
+  cloud_firestore_platform_interface: ^5.7.7
+  cloud_firestore: ^3.1.5 
+  google_fonts: ^4.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+
+  assets:
+    - assets/img/miimagen.jpeg
+    - assets/img/logo.jpg
+    - assets/img/profile.jpeg
+    - assets/img/descarga.jpg
+    - assets/img/evento.jpg
+    - assets/img/cola.jpg
+    - assets/img/m1.jpg
+    - assets/img/m2.jpg
+    - assets/img/m3.jpg
+    - assets/img/agendita.png
